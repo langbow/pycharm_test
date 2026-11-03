@@ -1,6 +1,6 @@
 print("hello world!hello git!second commit")
 print("hello world!hello git!third commit")
-print("hello world!hello git!")
+print("hello world!hello git!fix-bug add commit")
 print("hello world!hello git!")
 print("hello world!hello git!")
 print("hello world!hello git!")
