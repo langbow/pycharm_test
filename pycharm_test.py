@@ -3,11 +3,9 @@ print("hello world!hello git!third commit")
 print("hello world!hello git!master commit")
 print("hello world!hello git!")
 print("hello world!hello git!fix-bug add commit")
-print("hello world!hello git!")
+print("hello world!hello git!pull commit")
 print("hello world!hello git!")
 print("hello world!hello git!")
 print("hello world!hello git!")
 print("hello world!hello git!five commit")
 print("hello world!hello git!fix-bug commit")
-
-
